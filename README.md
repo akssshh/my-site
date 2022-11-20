@@ -1,6 +1,5 @@
 # my-site
 
 <a href="https://nodejs.org/)">
-  <img src="![node](https://user-images.githubusercontent.com/91525166/202926813-73350f9b-9e80-4c4e-a7ee-ce9f09778d5a.png)
-"/>
+  <img src="![nodejs](https://user-images.githubusercontent.com/91525166/202927069-51d3061a-e618-499f-a653-8ee3a90af5ff.png)"/>
 </a>
